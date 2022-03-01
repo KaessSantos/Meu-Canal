@@ -44,7 +44,7 @@ img{
     height: 3px;
     left: 0;
     bottom: 0;
-    background:linear-gradient(45deg, black, white);
+    background:linear-gradient(45deg, black, rgba(255, 255, 255, 0.438));
 }
 
 .container h1{
