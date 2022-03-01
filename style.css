@@ -54,10 +54,10 @@ img{
 
 .ajuste-a{
     max-width: 350px;
-    height: 50px;
+    height: 70px;
     background:linear-gradient(45deg, red, orange);
     text-align: center;
-    line-height: 50px;
+    line-height: 70px;
     position: relative;
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.39) ;
